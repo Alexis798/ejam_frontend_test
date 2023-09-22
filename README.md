@@ -1,8 +1,22 @@
-# React + Vite
+# Ejam Frontend Test Andres Moreno
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
 
-Currently, two official plugins are available:
+This repository is for the test in Frontend of Ejam, where I created a web application using react based in a desing of Figma given by they, this project also had to be responsive to keep order in mobile views.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tools used in this project
+
+- React, HTML, CCS, Javascript.
+- Vite
+- Material UI
+
+## More Information 
+
+### React
+> https://es.react.dev
+
+### Vite
+> https://vitejs.dev
+
+### Material UI
+> https://mui.com
