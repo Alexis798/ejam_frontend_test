@@ -231,7 +231,7 @@ export const HomePage = () => {
                                     </Grid>
                                     <Grid item xs={12} sm={12} md={1}>
                                         <Typography align="center" variant="body1" sx={{ color: "black", display: { xs: 'none', sm: 'none', md: 'block'}}}>|</Typography>
-                                        <Divider orientation="horinzontal" sx={{ color: "black", display: { xs: 'flex', sm: 'flex', md: 'none'}}} />
+                                        <Divider orientation="horinzontal" sx={{ backgroundColor: 'black', color: "black", display: { xs: 'flex', sm: 'flex', md: 'none'}}} />
                                     </Grid>
                                     <Grid item xs={12} sm={12} md={3} justifyContent="center" alignContent="center">
                                         <Grid container direction="row">
