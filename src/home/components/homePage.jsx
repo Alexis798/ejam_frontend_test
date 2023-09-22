@@ -241,7 +241,7 @@ export const HomePage = () => {
                                                     sx={{
                                                         maxHeight: { xs: "100%", md: "100%"},
                                                         maxWidth: { xs: "100%", md: "100%"},
-                                                        paddingX: { xs: 1, sm: 10, md: 0},
+                                                        paddingX: { xs: 0, sm: 10, md: 0},
                                                         paddingY: { xs: 1, sm: 0, md: 0}
                                                     }}
                                                     alt="productStock"
